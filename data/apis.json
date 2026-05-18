@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-11T09:38:55Z",
-  "count": 1479,
+  "updated_at": "2026-05-18T10:02:36Z",
+  "count": 1484,
   "apis": [
     {
       "name": "AdoptAPet",
@@ -544,7 +544,7 @@
     },
     {
       "name": "VirusTotal",
-      "url": "https://www.virustotal.com/en/documentation/public-api/",
+      "url": "https://docs.virustotal.com/reference/overview",
       "description": "VirusTotal File/URL Analysis",
       "category": "Anti-Malware",
       "auth": "apiKey",
@@ -2247,6 +2247,15 @@
       "name": "Poloniex",
       "url": "https://docs.poloniex.com",
       "description": "US based digital asset exchange",
+      "category": "Cryptocurrency",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "Unknown"
+    },
+    {
+      "name": "PumpFunData",
+      "url": "https://pumpfundata.com/docs",
+      "description": "Historical Pump.fun and PumpSwap AMM swap data as hourly Parquet files",
       "category": "Cryptocurrency",
       "auth": "apiKey",
       "https": "Yes",
@@ -4258,6 +4267,15 @@
       "auth": "No",
       "https": "Yes",
       "cors": "Unknown"
+    },
+    {
+      "name": "justmeme.wtf",
+      "url": "https://justmeme.wtf/api-docs",
+      "description": "Free meme API with 2400+ templates, search, trending, and AI generation",
+      "category": "Entertainment",
+      "auth": "No",
+      "https": "Yes",
+      "cors": "Yes"
     },
     {
       "name": "Meme Maker",
@@ -7977,6 +7995,15 @@
       "cors": "Yes"
     },
     {
+      "name": "HeroHunt People Search",
+      "url": "https://www.herohunt.ai/people-search-api",
+      "description": "Search 1 billion people profiles across LinkedIn and GitHub for talent sourcing",
+      "category": "Jobs",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "Yes"
+    },
+    {
       "name": "Jobs2Careers",
       "url": "http://api.jobs2careers.com/api/spec.pdf",
       "description": "Job aggregator",
@@ -10227,6 +10254,15 @@
       "cors": "Unknown"
     },
     {
+      "name": "dead-drop",
+      "url": "https://api.dead-drop.xyz/api/v1/docs",
+      "description": "Ephemeral zero-knowledge encrypted data sharing",
+      "category": "Security",
+      "auth": "No",
+      "https": "Yes",
+      "cors": "Yes"
+    },
+    {
       "name": "Dehash.lt",
       "url": "https://github.com/Dehash-lt/api",
       "description": "Hash decryption MD5, SHA1, SHA3, SHA256, SHA384, SHA512",
@@ -11287,6 +11323,15 @@
       "auth": "apiKey",
       "https": "Yes",
       "cors": "Yes"
+    },
+    {
+      "name": "TourneyRadar",
+      "url": "https://tourneyradar-api.vercel.app",
+      "description": "Upcoming chess tournaments from 140+ national federations worldwide",
+      "category": "Sports & Fitness",
+      "auth": "No",
+      "https": "Yes",
+      "cors": "Unknown"
     },
     {
       "name": "Tredict",
