@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-25T10:04:53Z",
-  "count": 1484,
+  "updated_at": "2026-06-01T11:32:57Z",
+  "count": 1498,
   "apis": [
     {
       "name": "AdoptAPet",
@@ -912,6 +912,15 @@
       "cors": "No"
     },
     {
+      "name": "Amanah Sunnah",
+      "url": "https://sunnah.amanahagent.cloud/developers",
+      "description": "Semantic search across Quran, Hadith, Tafsir & 18K+ Rijal narrators",
+      "category": "Books",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "Yes"
+    },
+    {
       "name": "Bhagavad Gita",
       "url": "https://docs.bhagavadgitaapi.in",
       "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
@@ -1344,9 +1353,9 @@
       "cors": "Unknown"
     },
     {
-      "name": "Checkiday - National Holiday API",
+      "name": "Checkiday - National Holiday",
       "url": "https://apilayer.com/marketplace/checkiday-api",
-      "description": "Industry-leading Holiday API. Over 5,000 holidays and thousands of descriptions. Trusted by the World’s leading companies",
+      "description": "Industry-leading holiday data with over 5,000 holidays and thousands of descriptions",
       "category": "Calendar",
       "auth": "apiKey",
       "https": "Yes",
@@ -3369,6 +3378,15 @@
       "cors": "Unknown"
     },
     {
+      "name": "QR & Barcode",
+      "url": "https://solsigs.com/qrapi/",
+      "description": "QR codes and barcodes (Code 128, EAN-13, Data Matrix, PDF417 + more). SVG or PNG output",
+      "category": "Development",
+      "auth": "No",
+      "https": "Yes",
+      "cors": "Yes"
+    },
+    {
       "name": "QR code",
       "url": "https://www.qrtag.net/api/",
       "description": "Create an easy to read QR code and URL shortener",
@@ -3610,6 +3628,15 @@
       "auth": "apiKey",
       "https": "Yes",
       "cors": "Yes"
+    },
+    {
+      "name": "Talordata",
+      "url": "https://docs.talordata.com/",
+      "description": "SERP data from major search engines with a free trial",
+      "category": "Development",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "Unknown"
     },
     {
       "name": "Thunderbit",
@@ -3981,6 +4008,15 @@
       "cors": "Unknown"
     },
     {
+      "name": "Renderly",
+      "url": "https://renderlyapi.com",
+      "description": "HTML to PDF conversion API built on Chromium",
+      "category": "Documents & Productivity",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "Yes"
+    },
+    {
       "name": "Restpack",
       "url": "https://restpack.io/",
       "description": "Provides screenshot, HTML to PDF and content extraction APIs",
@@ -3999,7 +4035,7 @@
       "cors": "Unknown"
     },
     {
-      "name": "Smart Image Enhancement API",
+      "name": "Smart Image Enhancement",
       "url": "https://apilayer.com/marketplace/image_enhancement-api",
       "description": "Performs image upscaling by adding detail to images through multiple super-resolution algorithms",
       "category": "Documents & Productivity",
@@ -4566,7 +4602,7 @@
       "cors": "Yes"
     },
     {
-      "name": "Bank Data API",
+      "name": "Bank Data",
       "url": "https://apilayer.com/marketplace/bank_data-api",
       "description": "Instant IBAN and SWIFT number validation across the globe",
       "category": "Finance",
@@ -4616,6 +4652,15 @@
       "description": "Global macroeconomic data",
       "category": "Finance",
       "auth": "No",
+      "https": "Yes",
+      "cors": "Yes"
+    },
+    {
+      "name": "EconPulse",
+      "url": "https://econpulse.io",
+      "description": "Live economic data — CPI, PPI, energy, treasury rates, BTC premium",
+      "category": "Finance",
+      "auth": "apiKey",
       "https": "Yes",
       "cors": "Yes"
     },
@@ -4796,8 +4841,8 @@
       "description": "Connect with user's bank accounts and access transaction data",
       "category": "Finance",
       "auth": "apiKey",
-      "https": "YES",
-      "cors": ""
+      "https": "Yes",
+      "cors": "Unknown"
     },
     {
       "name": "Polygon",
@@ -4872,7 +4917,7 @@
       "cors": "Unknown"
     },
     {
-      "name": "Tax Data API",
+      "name": "Tax Data",
       "url": "https://apilayer.com/marketplace/tax_data-api",
       "description": "Instant VAT number and tax validation across the globe",
       "category": "Finance",
@@ -6337,6 +6382,15 @@
       "auth": "No",
       "https": "Yes",
       "cors": "Unknown"
+    },
+    {
+      "name": "HackMyIP",
+      "url": "https://hackmyip.com/api",
+      "description": "IP geolocation, ISP and privacy/VPN scoring, email breach checks, DNS and WHOIS lookups",
+      "category": "Geocoding",
+      "auth": "No",
+      "https": "Yes",
+      "cors": "Yes"
     },
     {
       "name": "HelloSalut",
@@ -7851,6 +7905,15 @@
       "cors": "Unknown"
     },
     {
+      "name": "MedlinePlus Genetics",
+      "url": "https://medlineplus.gov/about/developers/geneticsdatafilesapi/",
+      "description": "Genetic conditions, genes, chromosomes and mtDNA data",
+      "category": "Health",
+      "auth": "No",
+      "https": "Yes",
+      "cors": "Unknown"
+    },
+    {
       "name": "MyVaccination",
       "url": "https://documenter.getpostman.com/view/16605343/Tzm8GG7u",
       "description": "Vaccination data for Malaysia",
@@ -8636,7 +8699,7 @@
     {
       "name": "Verome",
       "url": "https://github.com/Kirazul/Verome-API",
-      "description": "Music API for searching, streaming, and exploring music data from YouTube Music, YouTube, and Last.fm",
+      "description": "Music API for searching, streaming and exploring music data from YouTube Music, YouTube, and Last.fm",
       "category": "Music",
       "auth": "No",
       "https": "Yes",
@@ -9019,6 +9082,15 @@
       "auth": "No",
       "https": "Yes",
       "cors": "No"
+    },
+    {
+      "name": "Open Scholarships",
+      "url": "https://scholarships.grudged.io",
+      "description": "Free, openly-licensed directory of US scholarships and student aid from official sources",
+      "category": "Open Data",
+      "auth": "No",
+      "https": "Yes",
+      "cors": "Yes"
     },
     {
       "name": "openAFRICA",
@@ -10382,7 +10454,7 @@
     {
       "name": "IPLogs",
       "url": "https://iplogs.com/docs",
-      "description": "Free VPN, proxy, Tor and datacenter IP detection. 13 sources, active probing.",
+      "description": "Free VPN, proxy, Tor and datacenter IP detection. 13 sources, active probing",
       "category": "Security",
       "auth": "No",
       "https": "Yes",
@@ -10781,6 +10853,15 @@
       "description": "Get Social Media profiles and contact Information",
       "category": "Social",
       "auth": "OAuth",
+      "https": "Yes",
+      "cors": "Unknown"
+    },
+    {
+      "name": "GetXAPI",
+      "url": "https://www.getxapi.com/",
+      "description": "Read Twitter / X data and post tweets, likes, retweets, follows, DMs via REST",
+      "category": "Social",
+      "auth": "apiKey",
       "https": "Yes",
       "cors": "Unknown"
     },
@@ -11577,7 +11658,7 @@
       "cors": "Unknown"
     },
     {
-      "name": "Code Detection API",
+      "name": "Code Detection",
       "url": "https://codedetectionapi.runtime.dev",
       "description": "Detect, label, format and enrich the code in your app or in your data pipeline",
       "category": "Text Analysis",
@@ -11602,6 +11683,15 @@
       "auth": "apiKey",
       "https": "Yes",
       "cors": "Unknown"
+    },
+    {
+      "name": "Audexum",
+      "url": "https://audexum.com/docs",
+      "description": "Text-to-speech REST API with 43 voices and 33 languages",
+      "category": "Text Analysis",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "Yes"
     },
     {
       "name": "Cloudmersive Natural Language Processing",
@@ -11642,7 +11732,7 @@
     {
       "name": "GeoScore",
       "url": "https://geoscoreapi.com",
-      "description": "Score content for AI search citation readiness. Returns a 0-100 GEO score, 8 structural metrics, and improvement fixes",
+      "description": "Score content for AI search citation readiness with a 0-100 GEO score and 8 structural metrics",
       "category": "Text Analysis",
       "auth": "apiKey",
       "https": "Yes",
@@ -12030,6 +12120,15 @@
       "name": "Open Charge Map",
       "url": "https://openchargemap.org/site/develop/api",
       "description": "Global public registry of electric vehicle charging locations",
+      "category": "Transportation",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "Yes"
+    },
+    {
+      "name": "Orizn Visa",
+      "url": "https://visa.orizn.app",
+      "description": "Visa requirements for 199 countries, 39K+ passport-destination pairs in 15 languages",
       "category": "Transportation",
       "auth": "apiKey",
       "https": "Yes",
@@ -12567,6 +12666,15 @@
       "cors": "Unknown"
     },
     {
+      "name": "RedirHub",
+      "url": "https://redirhub.com",
+      "description": "URL redirect management with custom domains, HTTPS, analytics, and REST API",
+      "category": "URL Shorteners",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "Yes"
+    },
+    {
       "name": "Short Link",
       "url": "https://github.com/FayasNoushad/Short-Link-API",
       "description": "Short URLs support so many domains",
@@ -12655,6 +12763,15 @@
       "auth": "No",
       "https": "Yes",
       "cors": "Unknown"
+    },
+    {
+      "name": "RevCarData",
+      "url": "https://revcardata.com",
+      "description": "86,000+ global vehicle specifications and EV metrics",
+      "category": "Vehicle",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "Yes"
     },
     {
       "name": "Smartcar",
@@ -12772,6 +12889,15 @@
       "auth": "No",
       "https": "Yes",
       "cors": "Unknown"
+    },
+    {
+      "name": "Hyperserve",
+      "url": "https://hyperserve.io/",
+      "description": "Video backend API: upload any format, transcode to MP4, deliver via CDN",
+      "category": "Video",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "Yes"
     },
     {
       "name": "IMDb-API",
