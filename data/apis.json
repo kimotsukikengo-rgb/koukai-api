@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-08T10:53:04Z",
-  "count": 1554,
+  "updated_at": "2026-06-15T12:12:36Z",
+  "count": 1563,
   "apis": [
     {
       "name": "AdoptAPet",
@@ -1290,6 +1290,15 @@
       "cors": "Unknown"
     },
     {
+      "name": "Pick an Agency",
+      "url": "https://www.pickanagency.com/developers",
+      "description": "Search 47,000+ marketing agencies by service, location and rating",
+      "category": "Business",
+      "auth": "No",
+      "https": "Yes",
+      "cors": "Yes"
+    },
+    {
       "name": "Redash",
       "url": "https://redash.io/help/user-guide/integrations-and-api/api",
       "description": "Access your queries and dashboards on Redash",
@@ -2179,6 +2188,15 @@
       "auth": "apiKey",
       "https": "Yes",
       "cors": "Unknown"
+    },
+    {
+      "name": "Hyperliquid Market Data",
+      "url": "https://rapidapi.com/theliminalguy/api/hyperliquid-market-data-oi-funding-open-interest",
+      "description": "Hyperliquid open interest, funding and cross-venue predicted rates per coin",
+      "category": "Cryptocurrency",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "Yes"
     },
     {
       "name": "icy.tools",
@@ -6672,6 +6690,15 @@
       "cors": "Unknown"
     },
     {
+      "name": "IP-API.io",
+      "url": "https://ip-api.io",
+      "description": "IP geolocation with VPN/proxy/Tor detection, reputation and risk score",
+      "category": "Geocoding",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "Yes"
+    },
+    {
       "name": "IP Geolocation",
       "url": "https://www.abstractapi.com/ip-geolocation-api",
       "description": "Geolocate website visitors from their IPs",
@@ -6776,6 +6803,15 @@
       "description": "UK postcode lookup with lat/lon, district, ward, constituency",
       "category": "Geocoding",
       "auth": "apiKey",
+      "https": "Yes",
+      "cors": "Yes"
+    },
+    {
+      "name": "LatLng",
+      "url": "https://www.latlng.work/docs",
+      "description": "Geocoding, reverse geocoding, places, and static maps",
+      "category": "Geocoding",
+      "auth": "No",
       "https": "Yes",
       "cors": "Yes"
     },
@@ -8094,6 +8130,15 @@
       "cors": "Yes"
     },
     {
+      "name": "Cure Cancer With AI",
+      "url": "https://www.curecancerwithai.com/developers",
+      "description": "Oncology research, clinical trials, FDA approvals, news, and MAMMAL predictions",
+      "category": "Health",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "No"
+    },
+    {
       "name": "Dataflow Kit COVID-19",
       "url": "https://covid-19.dataflowkit.com",
       "description": "COVID-19 live statistics into sites per hour",
@@ -9138,6 +9183,15 @@
       "cors": "Unknown"
     },
     {
+      "name": "Noozra",
+      "url": "https://noozra.com/api",
+      "description": "Free news headlines from 200+ curated RSS sources",
+      "category": "News",
+      "auth": "No",
+      "https": "Yes",
+      "cors": "Yes"
+    },
+    {
       "name": "NPR One",
       "url": "http://dev.npr.org/api/",
       "description": "Personalized news listening experience from NPR",
@@ -9300,9 +9354,27 @@
       "cors": "Unknown"
     },
     {
+      "name": "InfraNode",
+      "url": "https://infranode.dev",
+      "description": "Unified German city open data: weather, air quality, EV chargers, transit, demographics",
+      "category": "Open Data",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "Unknown"
+    },
+    {
       "name": "Joshua Project",
       "url": "https://api.joshuaproject.net/",
       "description": "People groups of the world with the fewest followers of Christ",
+      "category": "Open Data",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "Unknown"
+    },
+    {
+      "name": "K-Data Gate",
+      "url": "https://kdata-gate.vercel.app/docs",
+      "description": "Korean market data: K-beauty/K-food products, Naver trends, stocks, real estate, weather",
       "category": "Open Data",
       "auth": "apiKey",
       "https": "Yes",
@@ -9964,6 +10036,15 @@
       "auth": "apiKey",
       "https": "Yes",
       "cors": "Yes"
+    },
+    {
+      "name": "VeriRoute Intel",
+      "url": "https://verirouteintel.com",
+      "description": "CNAM caller ID, carrier/LRN lookup and spam scoring for North American phone numbers",
+      "category": "Phone",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "Unknown"
     },
     {
       "name": "Screenshotlayer",
