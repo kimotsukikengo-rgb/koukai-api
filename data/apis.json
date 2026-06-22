@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-15T12:12:36Z",
-  "count": 1563,
+  "updated_at": "2026-06-22T11:52:43Z",
+  "count": 1567,
   "apis": [
     {
       "name": "AdoptAPet",
@@ -1929,6 +1929,15 @@
       "cors": "Unknown"
     },
     {
+      "name": "btcnode.uk",
+      "url": "https://btcnode.uk",
+      "description": "Bitcoin blockchain data, fees, mempool, SEC insider trades, Reddit sentiment. x402 micropayments for paid endpoints.",
+      "category": "Cryptocurrency",
+      "auth": "No",
+      "https": "Yes",
+      "cors": "Unknown"
+    },
+    {
       "name": "BtcTurk",
       "url": "https://docs.btcturk.com/",
       "description": "Real-time cryptocurrency data, graphs and API that allows buy&sell",
@@ -3672,6 +3681,15 @@
       "category": "Development",
       "auth": "No",
       "https": "No",
+      "cors": "Unknown"
+    },
+    {
+      "name": "SiteIntel",
+      "url": "https://siteintel.duckdns.org",
+      "description": "Extract metadata, tech stack, emails, and screenshots from any URL",
+      "category": "Development",
+      "auth": "apiKey",
+      "https": "Yes",
       "cors": "Unknown"
     },
     {
@@ -8553,6 +8571,15 @@
       "cors": "Yes"
     },
     {
+      "name": "GoldBean",
+      "url": "https://goldbean-api.xyz/docs",
+      "description": "OCR, Translation, NLP & ERNIE LLM via Baidu AI (free tier available)",
+      "category": "Machine Learning",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "Unknown"
+    },
+    {
       "name": "Groq",
       "url": "https://console.groq.com/docs/quickstart",
       "description": "Fast AI inference API with free tier, supports Llama, Mixtral, Gemma models",
@@ -11040,6 +11067,15 @@
       "name": "Best Buy",
       "url": "https://bestbuyapis.github.io/api-documentation/#overview",
       "description": "Products, Buying Options, Categories, Recommendations, Stores and Commerce",
+      "category": "Shopping",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "Unknown"
+    },
+    {
+      "name": "BuyWhere",
+      "url": "https://buywhere.ai",
+      "description": "Real-time product catalog API for AI agents across merchants in 7 countries (SG, MY, TH, VN, PH, ID, US)",
       "category": "Shopping",
       "auth": "apiKey",
       "https": "Yes",
