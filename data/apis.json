@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-29T10:57:47Z",
-  "count": 1581,
+  "updated_at": "2026-07-06T10:19:10Z",
+  "count": 1586,
   "apis": [
     {
       "name": "AdoptAPet",
@@ -2532,6 +2532,15 @@
       "cors": "Yes"
     },
     {
+      "name": "Exchangerate.dev",
+      "url": "https://exchangerate.dev/docs",
+      "description": "Live & historical FX, 168 pairs back to 1999, Frankfurter-compatible, free 10k/mo",
+      "category": "Currency Exchange",
+      "auth": "No",
+      "https": "Yes",
+      "cors": "Unknown"
+    },
+    {
       "name": "Frankfurter",
       "url": "https://www.frankfurter.app/docs",
       "description": "Exchange rates, currency conversion and time series",
@@ -3466,6 +3475,15 @@
       "auth": "apiKey",
       "https": "Yes",
       "cors": "Unknown"
+    },
+    {
+      "name": "OpenQR",
+      "url": "https://openqr.uk/api",
+      "description": "Generate QR codes and manage dynamic (editable) QR codes with scan analytics",
+      "category": "Development",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "Yes"
     },
     {
       "name": "oyyi",
@@ -4746,6 +4764,15 @@
       "cors": "Unknown"
     },
     {
+      "name": "Solematica",
+      "url": "https://www.solematica.it/sviluppatori",
+      "description": "Compare Italian solar (photovoltaic) installer offers, energy prices (PUN/ARERA) and satellite roof data",
+      "category": "Environment",
+      "auth": "No",
+      "https": "Yes",
+      "cors": "No"
+    },
+    {
       "name": "Srp Energy",
       "url": "https://srpenergy-api-client-python.readthedocs.io/en/latest/api.html",
       "description": "Hourly usage energy report for Srp customers",
@@ -4996,6 +5023,15 @@
       "auth": "OAuth",
       "https": "Yes",
       "cors": "Yes"
+    },
+    {
+      "name": "Goldprice.dev",
+      "url": "https://goldprice.dev/docs",
+      "description": "Cross-validated gold, silver & copper spot, futures & 30-year history in 13 currencies",
+      "category": "Finance",
+      "auth": "No",
+      "https": "Yes",
+      "cors": "Unknown"
     },
     {
       "name": "Helium",
@@ -9633,6 +9669,15 @@
       "cors": "Yes"
     },
     {
+      "name": "Pan Africa Data",
+      "url": "https://panafricadata.com",
+      "description": "Macroeconomic and subnational income distribution data for all 54 African countries",
+      "category": "Open Data",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "Unknown"
+    },
+    {
       "name": "PeakMetrics",
       "url": "https://rapidapi.com/peakmetrics-peakmetrics-default/api/peakmetrics-news",
       "description": "News articles and public datasets",
@@ -12870,7 +12915,7 @@
       "category": "Transportation",
       "auth": "apiKey",
       "https": "Yes",
-      "cors": "Yes"
+      "cors": "No"
     },
     {
       "name": "Sabre for Developers",
