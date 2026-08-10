@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-03T09:41:43Z",
-  "count": 1614,
+  "updated_at": "2026-08-10T07:38:29Z",
+  "count": 1646,
   "apis": [
     {
       "name": "AdoptAPet",
@@ -373,7 +373,7 @@
     },
     {
       "name": "Studio Ghibli",
-      "url": "https://ghibliapi.herokuapp.com",
+      "url": "https://ghibliapi.vercel.app",
       "description": "Resources from Studio Ghibli films",
       "category": "Anime",
       "auth": "No",
@@ -750,15 +750,6 @@
       "cors": "Unknown"
     },
     {
-      "name": "xColors",
-      "url": "https://x-colors.herokuapp.com/",
-      "description": "Generate & convert colors",
-      "category": "Art & Design",
-      "auth": "No",
-      "https": "Yes",
-      "cors": "Yes"
-    },
-    {
       "name": "Auth0",
       "url": "https://auth0.com",
       "description": "Easy to implement, adaptable authentication and authorization platform",
@@ -856,6 +847,15 @@
       "auth": "No",
       "https": "Yes",
       "cors": "Unknown"
+    },
+    {
+      "name": "ClearTrace",
+      "url": "https://cleartracedata.com/docs",
+      "description": "Cross-frontend DEX attribution and execution quality data across Ethereum and L2s",
+      "category": "Blockchain",
+      "auth": "No",
+      "https": "Yes",
+      "cors": "Yes"
     },
     {
       "name": "Covalent",
@@ -1110,15 +1110,6 @@
       "cors": "Yes"
     },
     {
-      "name": "Rig Veda",
-      "url": "https://aninditabasu.github.io/indica/html/rv.html",
-      "description": "Gods and poets, their categories, and the verse meters, with the mandal and sukta number",
-      "category": "Books",
-      "auth": "No",
-      "https": "Yes",
-      "cors": "Unknown"
-    },
-    {
       "name": "Runyankole Bible",
       "url": "https://runyankole-bible-api.vercel.app",
       "description": "Free REST API for the Runyankore-Rukiga Bible — 66 books, 31106 verses",
@@ -1153,15 +1144,6 @@
       "auth": "No",
       "https": "Yes",
       "cors": "Yes"
-    },
-    {
-      "name": "Vedic Society",
-      "url": "https://aninditabasu.github.io/indica/html/vs.html",
-      "description": "Descriptions of all nouns (names, places, animals, things) from vedic literature",
-      "category": "Books",
-      "auth": "No",
-      "https": "Yes",
-      "cors": "Unknown"
     },
     {
       "name": "Wizard World",
@@ -1225,6 +1207,15 @@
       "auth": "OAuth",
       "https": "Yes",
       "cors": "Unknown"
+    },
+    {
+      "name": "Funding Signals",
+      "url": "https://fundingsignals.net/docs",
+      "description": "Companies that just raised funding, scored as sales leads, from public SEC filings",
+      "category": "Business",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "No"
     },
     {
       "name": "Gmail",
@@ -1423,6 +1414,15 @@
       "auth": "OAuth",
       "https": "Yes",
       "cors": "Unknown"
+    },
+    {
+      "name": "Village",
+      "url": "https://docs.village.ai",
+      "description": "Person and company enrichment plus warm introduction paths through your network",
+      "category": "Business",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "Yes"
     },
     {
       "name": "caldays",
@@ -1882,6 +1882,15 @@
       "auth": "No",
       "https": "Yes",
       "cors": "Unknown"
+    },
+    {
+      "name": "Bitcoin Halving",
+      "url": "https://why21million.com/halving-api/",
+      "description": "Halving era, block reward, and schedule arithmetic for any Bitcoin block height",
+      "category": "Cryptocurrency",
+      "auth": "No",
+      "https": "Yes",
+      "cors": "Yes"
     },
     {
       "name": "Bitfinex",
@@ -2424,6 +2433,24 @@
       "cors": "Unknown"
     },
     {
+      "name": "ScriptMasterLabs x402",
+      "url": "https://acp-x402-scriptmasterlabs.onrender.com",
+      "description": "100+ SEC, DeFi, crypto, and macro endpoints for AI agents via x402 micropayments",
+      "category": "Cryptocurrency",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "Yes"
+    },
+    {
+      "name": "ScriptMasterLabs MCP",
+      "url": "https://mcp-x402.onrender.com",
+      "description": "Model Context Protocol server with web search, social search & LLM chat paid via x402",
+      "category": "Cryptocurrency",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "Yes"
+    },
+    {
       "name": "WorldCoinIndex",
       "url": "https://www.worldcoinindex.com/apiservice",
       "description": "Cryptocurrencies Prices",
@@ -2667,6 +2694,15 @@
       "cors": "Unknown"
     },
     {
+      "name": "SchemaShield",
+      "url": "https://rapidapi.com/kaiasistentedavid/api/schema-change-risk",
+      "description": "Read-only preflight for breaking schema changes and downstream query impact",
+      "category": "Data Validation",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "Unknown"
+    },
+    {
       "name": "US Autocomplete",
       "url": "https://www.smarty.com/docs/cloud/us-autocomplete-pro-api",
       "description": "Enter address data quickly with real-time address suggestions",
@@ -2724,6 +2760,15 @@
       "name": "Amazonscraperapi",
       "url": "https://amazonscraperapi.com",
       "description": "Amazon product, search & batch scraping API with residential proxies (1000 free)",
+      "category": "Development",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "No"
+    },
+    {
+      "name": "AmberOne",
+      "url": "https://scubamike124.github.io/amberone-api/",
+      "description": "Turn any website into a build-ready Android, iOS, PWA or Electron app project",
       "category": "Development",
       "auth": "apiKey",
       "https": "Yes",
@@ -2892,6 +2937,15 @@
       "cors": "No"
     },
     {
+      "name": "Cloudflare",
+      "url": "https://developers.cloudflare.com/api/",
+      "description": "Manage DNS, CDN, Workers and other services; documented with an official OpenAPI 3.0 spec",
+      "category": "Development",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "No"
+    },
+    {
       "name": "Cloudflare Trace",
       "url": "https://github.com/fawazahmed0/cloudflare-trace-api",
       "description": "Get IP Address, Timestamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & More",
@@ -2946,6 +3000,15 @@
       "cors": "Yes"
     },
     {
+      "name": "Diagrams.so",
+      "url": "https://diagrams.so/developers",
+      "description": "Generate editable draw.io architecture diagrams from text or infrastructure code",
+      "category": "Development",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "No"
+    },
+    {
       "name": "DigitalOcean Status",
       "url": "https://status.digitalocean.com/api",
       "description": "Status of all DigitalOcean services",
@@ -2971,6 +3034,15 @@
       "auth": "No",
       "https": "Yes",
       "cors": "Unknown"
+    },
+    {
+      "name": "dotsweep",
+      "url": "https://dotsweep.com/docs",
+      "description": "Domain availability across 1200+ TLDs with registration and renewal prices",
+      "category": "Development",
+      "auth": "No",
+      "https": "Yes",
+      "cors": "Yes"
     },
     {
       "name": "DownStatus",
@@ -3567,6 +3639,15 @@
       "cors": "Unknown"
     },
     {
+      "name": "ProxyForge",
+      "url": "https://proxyforge.dev",
+      "description": "Free auto-updating list of live-tested proxies (HTTP/HTTPS/SOCKS4/SOCKS5), refreshed every 6 h",
+      "category": "Development",
+      "auth": "No",
+      "https": "Yes",
+      "cors": "Yes"
+    },
+    {
       "name": "ProxyKingdom",
       "url": "https://proxykingdom.com",
       "description": "Rotating Proxy API that produces a working proxy on every request",
@@ -3891,6 +3972,15 @@
       "cors": "Yes"
     },
     {
+      "name": "Utilorax",
+      "url": "https://utilorax.com/api",
+      "description": "203 JSON endpoints: hashing, encoding, unit conversion, text, dates and file conversion",
+      "category": "Development",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "Yes"
+    },
+    {
       "name": "Wandbox",
       "url": "https://github.com/melpon/wandbox/blob/master/kennel2/API.rst",
       "description": "Code compiler supporting 35+ languages mentioned at wandbox.org",
@@ -4143,6 +4233,15 @@
       "cors": "No"
     },
     {
+      "name": "DocStruct",
+      "url": "https://docstruct.pages.dev",
+      "description": "AI extraction of invoices, receipts, bank statements & contracts into structured JSON/CSV",
+      "category": "Documents & Productivity",
+      "auth": "No",
+      "https": "Yes",
+      "cors": "Yes"
+    },
+    {
       "name": "Flowdash",
       "url": "https://docs.flowdash.com/docs/api-introduction",
       "description": "Automate business workflows",
@@ -4305,6 +4404,15 @@
       "cors": "Unknown"
     },
     {
+      "name": "RunConvert",
+      "url": "https://www.runconvert.com/docs",
+      "description": "Convert video, audio, image, and document files programmatically",
+      "category": "Documents & Productivity",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "No"
+    },
+    {
       "name": "Todoist",
       "url": "https://developer.todoist.com",
       "description": "Todo Lists",
@@ -4375,6 +4483,15 @@
       "auth": "apiKey",
       "https": "Yes",
       "cors": "Unknown"
+    },
+    {
+      "name": "AGPC Domain Check",
+      "url": "https://guild.tradeuniquecapital.com/api",
+      "description": "Check a domain's SPF, DKIM, DMARC and MX with a graded shareable report",
+      "category": "Email",
+      "auth": "No",
+      "https": "Yes",
+      "cors": "Yes"
     },
     {
       "name": "Cloudmersive Validate",
@@ -4504,8 +4621,8 @@
     },
     {
       "name": "Mailtrap",
-      "url": "https://mailtrap.docs.apiary.io/#",
-      "description": "A service for the safe testing of emails sent from the development and staging environments",
+      "url": "https://mailtrap.io",
+      "description": "Email API and SMTP for sending transactional and bulk emails, with email testing sandbox for safe development",
       "category": "Email",
       "auth": "apiKey",
       "https": "Yes",
@@ -5097,6 +5214,15 @@
       "cors": "Unknown"
     },
     {
+      "name": "Halal Terminal",
+      "url": "https://api.halalterminal.com/docs",
+      "description": "Shariah-compliant stock and ETF screening across 5 methodologies, zakat and purification",
+      "category": "Finance",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "Yes"
+    },
+    {
       "name": "Helium",
       "url": "https://heliumtrades.com/mcp-page/",
       "description": "News with media bias scoring, balanced news synthesis, live market data, AI options pricing",
@@ -5117,11 +5243,11 @@
     {
       "name": "IBANforge",
       "url": "https://api.ibanforge.com",
-      "description": "IBAN validation and BIC/SWIFT lookup for 75+ countries with 121K+ bank entries",
+      "description": "IBAN validation and BIC/SWIFT lookup for 89 countries with 121k+ BIC entries",
       "category": "Finance",
-      "auth": "No",
+      "auth": "apiKey",
       "https": "Yes",
-      "cors": "Yes"
+      "cors": "No"
     },
     {
       "name": "IEX Cloud",
@@ -5385,6 +5511,15 @@
       "cors": "Yes"
     },
     {
+      "name": "Zelothorn",
+      "url": "https://zelothorn.com/developers",
+      "description": "Plain-English explanations of US public companies with SEC filings and earnings data",
+      "category": "Finance",
+      "auth": "No",
+      "https": "Yes",
+      "cors": "Yes"
+    },
+    {
       "name": "Zoho Books",
       "url": "https://www.zoho.com/books/api/v3/",
       "description": "Online accounting software, built for your business",
@@ -5437,6 +5572,15 @@
       "auth": "apiKey",
       "https": "Yes",
       "cors": "Unknown"
+    },
+    {
+      "name": "Food Info",
+      "url": "https://food-info.org/developer",
+      "description": "Nutrition data for millions of foods from six national food composition datasets",
+      "category": "Food & Drink",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "No"
     },
     {
       "name": "Foodish",
@@ -7338,6 +7482,15 @@
       "cors": "Unknown"
     },
     {
+      "name": "AI Law Tracker",
+      "url": "https://ai-law-tracker.com/developers",
+      "description": "AI regulation laws by jurisdiction (US, EU, global) as read-only JSON; free tier",
+      "category": "Government",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "Unknown"
+    },
+    {
       "name": "Bank Negara Malaysia Open Data",
       "url": "https://apikijangportal.bnm.gov.my/",
       "description": "Malaysia Central Bank Open Data",
@@ -7651,6 +7804,15 @@
       "auth": "apiKey",
       "https": "Yes",
       "cors": "Unknown"
+    },
+    {
+      "name": "Indian Mandi Prices",
+      "url": "https://mandi-api.vercel.app/docs",
+      "description": "Free, keyless daily wholesale mandi prices for 5 Indian states, sourced from data.gov.in",
+      "category": "Government",
+      "auth": "No",
+      "https": "Yes",
+      "cors": "Yes"
     },
     {
       "name": "Indian Pincode",
@@ -8175,6 +8337,15 @@
       "cors": "Unknown"
     },
     {
+      "name": "Tollmint",
+      "url": "https://api.tollmint.com",
+      "description": "Advertising, subscription, AI-disclosure and accessibility rules across the US, EU and UK",
+      "category": "Government",
+      "auth": "No",
+      "https": "Yes",
+      "cors": "Yes"
+    },
+    {
       "name": "UK Companies House",
       "url": "https://developer.company-information.service.gov.uk/",
       "description": "UK Companies House Data from the UK government",
@@ -8389,6 +8560,15 @@
       "auth": "apiKey",
       "https": "Yes",
       "cors": "Unknown"
+    },
+    {
+      "name": "ERstat",
+      "url": "https://erstat.ca/developers",
+      "description": "Live Canadian emergency room closures and service disruptions, by province",
+      "category": "Health",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "Yes"
     },
     {
       "name": "FoodData Central",
@@ -8751,6 +8931,15 @@
       "cors": "Unknown"
     },
     {
+      "name": "AI Economics Tools",
+      "url": "https://piszczek.pl/tools/api",
+      "description": "Token cost, LLM energy, agent-hour and Proof-Adjusted Autonomy calculators by Michał Piszczek",
+      "category": "Machine Learning",
+      "auth": "No",
+      "https": "Yes",
+      "cors": "Yes"
+    },
+    {
       "name": "AI For Thai",
       "url": "https://aiforthai.in.th/index.php",
       "description": "Free Various Thai AI API",
@@ -8983,6 +9172,15 @@
       "auth": "apiKey",
       "https": "Yes",
       "cors": "Unknown"
+    },
+    {
+      "name": "Statlyte",
+      "url": "https://statlyte.com/api",
+      "description": "Live pricing, context windows and model ids for major LLM APIs",
+      "category": "Machine Learning",
+      "auth": "No",
+      "https": "Yes",
+      "cors": "Yes"
     },
     {
       "name": "TensorFeed",
@@ -9372,6 +9570,15 @@
       "cors": "Yes"
     },
     {
+      "name": "DataCube AI",
+      "url": "https://www.datacubeai.space/en/tools/ai-news-api",
+      "description": "Daily curated AI industry news, funding rounds and trends in 8 languages",
+      "category": "News",
+      "auth": "No",
+      "https": "Yes",
+      "cors": "No"
+    },
+    {
       "name": "Feedbin",
       "url": "https://github.com/feedbin/feedbin-api",
       "description": "RSS reader",
@@ -9624,6 +9831,15 @@
       "cors": "Yes"
     },
     {
+      "name": "EOSL",
+      "url": "https://eosl.ai/api/",
+      "description": "Hardware end-of-sale and end-of-service-life dates by part number, source-linked",
+      "category": "Open Data",
+      "auth": "No",
+      "https": "Yes",
+      "cors": "Yes"
+    },
+    {
       "name": "French Address Search",
       "url": "https://geo.api.gouv.fr/adresse",
       "description": "Address search via the French Government",
@@ -9820,6 +10036,15 @@
       "auth": "apiKey",
       "https": "Yes",
       "cors": "Unknown"
+    },
+    {
+      "name": "Registrum",
+      "url": "https://api.registrum.co.uk/docs",
+      "description": "UK company data: profiles, directors, PSC, iXBRL-parsed financials, ECCTA status",
+      "category": "Open Data",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "No"
     },
     {
       "name": "Scoop.it",
@@ -11496,6 +11721,15 @@
       "cors": "Unknown"
     },
     {
+      "name": "Marketplace Fee Data",
+      "url": "https://www.sellerscalc.com/data",
+      "description": "Seller fee schedules for 21 e-commerce marketplaces and payment processors as JSON",
+      "category": "Shopping",
+      "auth": "No",
+      "https": "Yes",
+      "cors": "Yes"
+    },
+    {
       "name": "Mercadolibre",
       "url": "https://developers.mercadolibre.cl/es_ar/api-docs-es",
       "description": "Manage sales, ads, products, services and Shops",
@@ -11820,11 +12054,29 @@
       "cors": "Unknown"
     },
     {
+      "name": "Publora",
+      "url": "https://docs.publora.com",
+      "description": "Publish and schedule posts to ten social networks from one endpoint",
+      "category": "Social",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "No"
+    },
+    {
       "name": "Reddit",
       "url": "https://www.reddit.com/dev/api",
       "description": "Homepage of the internet",
       "category": "Social",
       "auth": "OAuth",
+      "https": "Yes",
+      "cors": "Unknown"
+    },
+    {
+      "name": "RedditAPIs",
+      "url": "https://www.redditapis.com/",
+      "description": "Reddit data API: subreddit listings, post/comment/community/user search, comment trees, top posts",
+      "category": "Social",
+      "auth": "apiKey",
       "https": "Yes",
       "cors": "Unknown"
     },
@@ -11919,6 +12171,15 @@
       "cors": "Unknown"
     },
     {
+      "name": "TweetAPI",
+      "url": "https://tweetapi.com/docs",
+      "description": "Public Twitter data for posts, profiles, followers, search, lists and communities",
+      "category": "Social",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "No"
+    },
+    {
       "name": "Twitch",
       "url": "https://dev.twitch.tv/docs",
       "description": "Game Streaming API",
@@ -11955,6 +12216,15 @@
       "cors": "Yes"
     },
     {
+      "name": "XFlux",
+      "url": "https://www.xfluxapi.com/docs/api",
+      "description": "Read X/Twitter profiles, search, timelines; account monitors with signed webhooks",
+      "category": "Social",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "No"
+    },
+    {
       "name": "API-FOOTBALL",
       "url": "https://www.api-football.com/documentation-v3",
       "description": "Get information about Football Leagues & Cups",
@@ -11976,6 +12246,15 @@
       "name": "balldontlie",
       "url": "https://www.balldontlie.io",
       "description": "Balldontlie provides access to stats data from the NBA",
+      "category": "Sports & Fitness",
+      "auth": "No",
+      "https": "Yes",
+      "cors": "Yes"
+    },
+    {
+      "name": "Bet Better",
+      "url": "https://betbetter.world/api/",
+      "description": "Sports model win probabilities and fair odds across 13 leagues",
       "category": "Sports & Fitness",
       "auth": "No",
       "https": "Yes",
@@ -12511,6 +12790,15 @@
       "auth": "No",
       "https": "Yes",
       "cors": "Unknown"
+    },
+    {
+      "name": "restful-api",
+      "url": "https://restful-api.dev",
+      "description": "Fake REST API for testing and prototyping with CRUD endpoints",
+      "category": "Test Data",
+      "auth": "No",
+      "https": "Yes",
+      "cors": "No"
     },
     {
       "name": "RoboHash",
