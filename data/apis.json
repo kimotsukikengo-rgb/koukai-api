@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-17T06:52:20Z",
-  "count": 1678,
+  "updated_at": "2026-08-24T06:55:24Z",
+  "count": 1695,
   "apis": [
     {
       "name": "AdoptAPet",
@@ -890,6 +890,15 @@
       "description": "Ethereum explorer API",
       "category": "Blockchain",
       "auth": "apiKey",
+      "https": "Yes",
+      "cors": "Yes"
+    },
+    {
+      "name": "Get Started with Web3",
+      "url": "https://github.com/beihaili/Get-Started-with-Web3/blob/main/docs/api.md",
+      "description": "Bilingual Web3 lessons, glossary search and role-based learning paths",
+      "category": "Blockchain",
+      "auth": "No",
       "https": "Yes",
       "cors": "Yes"
     },
@@ -2712,6 +2721,15 @@
       "cors": "Unknown"
     },
     {
+      "name": "Attestwire",
+      "url": "https://api.attestwire.com/docs",
+      "description": "Validate EN 16931 e-invoices: XRechnung, ZUGFeRD, Factur-X, Peppol BIS",
+      "category": "Data Validation",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "Yes"
+    },
+    {
       "name": "Lob.com",
       "url": "https://lob.com/",
       "description": "US Address Verification",
@@ -2929,7 +2947,7 @@
     },
     {
       "name": "Bored",
-      "url": "https://www.boredapi.com/",
+      "url": "https://bored-api.appbrewery.com/",
       "description": "Find random activities to fight boredom",
       "category": "Development",
       "auth": "No",
@@ -3671,6 +3689,15 @@
       "description": "Generate QR codes and manage dynamic (editable) QR codes with scan analytics",
       "category": "Development",
       "auth": "apiKey",
+      "https": "Yes",
+      "cors": "Yes"
+    },
+    {
+      "name": "Orca Scan",
+      "url": "https://orcascan.com/guides/free-barcode-image-api-0e4a4fa6",
+      "description": "Generate barcode images (QR, Code 128, EAN, Data Matrix and more) in SVG, PNG, JPG or PDF",
+      "category": "Development",
+      "auth": "No",
       "https": "Yes",
       "cors": "Yes"
     },
@@ -4773,6 +4800,15 @@
       "cors": "Unknown"
     },
     {
+      "name": "uchecker",
+      "url": "https://api.uchecker.net/docs",
+      "description": "Bulk email verification with full SMTP server responses",
+      "category": "Email",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "Unknown"
+    },
+    {
       "name": "Verifier",
       "url": "https://verifier.meetchopra.com/docs#/",
       "description": "Verifies that a given email is real",
@@ -5005,6 +5041,15 @@
       "auth": "apiKey",
       "https": "Yes",
       "cors": "Unknown"
+    },
+    {
+      "name": "kanari",
+      "url": "https://kanari.io/en/api",
+      "description": "Real-time worldwide wildfire detections, water bomber tracking and open fire archive",
+      "category": "Environment",
+      "auth": "No",
+      "https": "Yes",
+      "cors": "Yes"
     },
     {
       "name": "Luchtmeetnet",
@@ -6546,6 +6591,15 @@
       "cors": "Unknown"
     },
     {
+      "name": "PokéSprite",
+      "url": "https://msikma.github.io/pokesprite/",
+      "description": "Database of Pokémon sprites and icons",
+      "category": "Games & Comics",
+      "auth": "No",
+      "https": "Yes",
+      "cors": "Yes"
+    },
+    {
       "name": "Psychonauts",
       "url": "https://psychonauts-api.netlify.app/",
       "description": "Psychonauts World Characters Information and PSI Powers",
@@ -6598,6 +6652,15 @@
       "auth": "apiKey",
       "https": "Yes",
       "cors": "Unknown"
+    },
+    {
+      "name": "Rblxdb",
+      "url": "https://rblxdb.com/developers",
+      "description": "Verified Roblox music codes and decal IDs with live working status",
+      "category": "Games & Comics",
+      "auth": "No",
+      "https": "Yes",
+      "cors": "Yes"
     },
     {
       "name": "Rick and Morty",
@@ -6679,6 +6742,15 @@
       "auth": "No",
       "https": "Yes",
       "cors": "No"
+    },
+    {
+      "name": "SteamGPT",
+      "url": "https://steamgpt.net",
+      "description": "Steam profiles, SteamID conversion, VAC/game bans, FACEIT stats and friends",
+      "category": "Games & Comics",
+      "auth": "No",
+      "https": "Yes",
+      "cors": "Yes"
     },
     {
       "name": "SuperHeroes",
@@ -7282,6 +7354,15 @@
       "auth": "apiKey",
       "https": "Yes",
       "cors": "Unknown"
+    },
+    {
+      "name": "ipwhois",
+      "url": "https://ipwhois.io/documentation",
+      "description": "IP geolocation with country, city, coordinates, ISP, timezone and flag data",
+      "category": "Geocoding",
+      "auth": "No",
+      "https": "Yes",
+      "cors": "Yes"
     },
     {
       "name": "Kakao Maps",
@@ -8553,6 +8634,15 @@
       "cors": "Unknown"
     },
     {
+      "name": "Vett",
+      "url": "https://wimberly.solutions/api/free-sanctions-check/",
+      "description": "Screen names & companies against OFAC, PEP, watchlists & recalls",
+      "category": "Government",
+      "auth": "No",
+      "https": "Yes",
+      "cors": "Yes"
+    },
+    {
       "name": "Clinical Trials Directory",
       "url": "https://trials.starfile.org/api",
       "description": "Every clinical trial registered with ClinicalTrials.gov, indexed by condition and sponsor",
@@ -9186,6 +9276,15 @@
       "name": "GoldBean",
       "url": "https://goldbean-api.xyz/docs",
       "description": "OCR, Translation, NLP & ERNIE LLM via Baidu AI (free tier available)",
+      "category": "Machine Learning",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "Unknown"
+    },
+    {
+      "name": "Google Gemini",
+      "url": "https://ai.google.dev/gemini-api/docs",
+      "description": "Multimodal generative AI for text, vision, and code generation",
       "category": "Machine Learning",
       "auth": "apiKey",
       "https": "Yes",
@@ -10000,6 +10099,15 @@
       "auth": "No",
       "https": "Yes",
       "cors": "Unknown"
+    },
+    {
+      "name": "CuttingToolsAI",
+      "url": "https://cuttingtoolsai.eu/api",
+      "description": "Cross-brand carbide insert grade equivalents by ISO application class",
+      "category": "Open Data",
+      "auth": "No",
+      "https": "Yes",
+      "cors": "Yes"
     },
     {
       "name": "Enigma Public",
@@ -10932,6 +11040,15 @@
       "name": "ObjectCut",
       "url": "https://objectcut.com/",
       "description": "Image Background removal",
+      "category": "Photography",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "Yes"
+    },
+    {
+      "name": "Pexafy",
+      "url": "https://docs.pexafy.com",
+      "description": "Semantic image search across 9+ free stock photo sources with a unified JSON schema",
       "category": "Photography",
       "auth": "apiKey",
       "https": "Yes",
@@ -12000,6 +12117,15 @@
       "cors": "Unknown"
     },
     {
+      "name": "Sparepilot",
+      "url": "https://sparepilot.com/developers",
+      "description": "Spare parts catalog, OEM cross-references & price comparison for garden power equipment",
+      "category": "Shopping",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "Unknown"
+    },
+    {
       "name": "Tokopedia",
       "url": "https://developer.tokopedia.com/openapi/guide/#/",
       "description": "Tokopedia's Official API for integration of various services from Tokopedia",
@@ -12581,6 +12707,15 @@
       "description": "Embed codes for goals and highlights from Premier League, Bundesliga, Serie A and many more",
       "category": "Sports & Fitness",
       "auth": "No",
+      "https": "Yes",
+      "cors": "Yes"
+    },
+    {
+      "name": "Football Charts",
+      "url": "https://www.football-charts.com/developers",
+      "description": "Tables, results, model probabilities and Monte Carlo season projections for 93 leagues",
+      "category": "Sports & Fitness",
+      "auth": "apiKey",
       "https": "Yes",
       "cors": "Yes"
     },
@@ -14583,6 +14718,15 @@
       "cors": "Unknown"
     },
     {
+      "name": "Shotstack",
+      "url": "https://shotstack.io/",
+      "description": "Cloud video editing API to create and render videos programmatically",
+      "category": "Video",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "Unknown"
+    },
+    {
       "name": "Simkl",
       "url": "https://simkl.docs.apiary.io",
       "description": "Movie, TV and Anime data",
@@ -14734,6 +14878,15 @@
       "auth": "apiKey",
       "https": "Yes",
       "cors": "Yes"
+    },
+    {
+      "name": "VidWords",
+      "url": "https://vidwords.com/api-docs",
+      "description": "YouTube transcripts and subtitles as TXT, SRT, VTT or DOCX, plus AI video analysis",
+      "category": "Video",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "No"
     },
     {
       "name": "Vimeo",
