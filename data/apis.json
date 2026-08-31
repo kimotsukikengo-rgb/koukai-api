@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-24T06:55:24Z",
-  "count": 1695,
+  "updated_at": "2026-08-31T12:47:20Z",
+  "count": 1716,
   "apis": [
     {
       "name": "AdoptAPet",
@@ -1281,6 +1281,15 @@
       "cors": "No"
     },
     {
+      "name": "Katalis UK Company Enrichment",
+      "url": "https://meetkatalis.com/apis",
+      "description": "Verified UK company profiles with an AI summary and accuracy score, from Companies House data",
+      "category": "Business",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "Unknown"
+    },
+    {
       "name": "Legal Sandbox Georgia",
       "url": "https://legal.ge/api/openapi.json",
       "description": "Find verified legal specialists in Georgia from natural-language queries",
@@ -1432,6 +1441,15 @@
       "auth": "No",
       "https": "Yes",
       "cors": "Unknown"
+    },
+    {
+      "name": "TradeDataHub",
+      "url": "https://www.tradedatahub.net",
+      "description": "U.S. contractor datasets with a free discovery API for coverage, pricing and masked previews",
+      "category": "Business",
+      "auth": "No",
+      "https": "Yes",
+      "cors": "Yes"
     },
     {
       "name": "Tomba email finder",
@@ -2019,6 +2037,15 @@
       "cors": "Unknown"
     },
     {
+      "name": "BTCGlobe",
+      "url": "https://btcglobe.live/join#makers",
+      "description": "Bitcoin height, fees, mempool and peer data served live from two self-hosted nodes",
+      "category": "Cryptocurrency",
+      "auth": "No",
+      "https": "Yes",
+      "cors": "Yes"
+    },
+    {
       "name": "btcnode.uk",
       "url": "https://btcnode.uk",
       "description": "Bitcoin blockchain data, fees, mempool, SEC insider trades, Reddit sentiment. x402 micropayments for paid endpoints.",
@@ -2604,6 +2631,15 @@
       "cors": "Yes"
     },
     {
+      "name": "CurrencyBeacon",
+      "url": "https://currencybeacon.com/",
+      "description": "Real-time and historical currency exchange rates with free tier",
+      "category": "Currency Exchange",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "Yes"
+    },
+    {
       "name": "CurrencyFreaks",
       "url": "https://currencyfreaks.com/",
       "description": "Provides current and historical currency exchange rates with free plan 1K requests/month",
@@ -2881,6 +2917,15 @@
       "auth": "No",
       "https": "Yes",
       "cors": "Unknown"
+    },
+    {
+      "name": "Aquanode",
+      "url": "https://docs.aquanode.io/docs/api/marketplace",
+      "description": "Live GPU rental prices and availability across nine cloud providers",
+      "category": "Development",
+      "auth": "No",
+      "https": "Yes",
+      "cors": "No"
     },
     {
       "name": "Azure DevOps",
@@ -3936,6 +3981,15 @@
       "cors": "Unknown"
     },
     {
+      "name": "Scrax",
+      "url": "https://rapidapi.com/mtaahoperators/api/scrax",
+      "description": "Web scraping API that only bills for successful scrapes",
+      "category": "Development",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "Unknown"
+    },
+    {
       "name": "Screenshot",
       "url": "https://www.abstractapi.com/website-screenshot-api",
       "description": "Take programmatic screenshots of web pages from any website",
@@ -4800,6 +4854,15 @@
       "cors": "Unknown"
     },
     {
+      "name": "SMTPfast",
+      "url": "https://smtpfa.st/docs",
+      "description": "Send transactional email, manage contacts and broadcasts, free 3,000 emails/month",
+      "category": "Email",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "Yes"
+    },
+    {
       "name": "uchecker",
       "url": "https://api.uchecker.net/docs",
       "description": "Bulk email verification with full SMTP server responses",
@@ -5142,6 +5205,15 @@
       "cors": "Unknown"
     },
     {
+      "name": "WattFigure",
+      "url": "https://api.wattfigure.com/",
+      "description": "US electricity rates by state, with appliance and EV charging running costs",
+      "category": "Environment",
+      "auth": "No",
+      "https": "Yes",
+      "cors": "Yes"
+    },
+    {
       "name": "Website Carbon",
       "url": "https://api.websitecarbon.com/",
       "description": "API to estimate the carbon footprint of loading web pages",
@@ -5322,6 +5394,15 @@
       "cors": "Unknown"
     },
     {
+      "name": "EOD Historical Data",
+      "url": "https://eodhd.com/",
+      "description": "Real-time and historical stock market data with 150+ exchanges",
+      "category": "Finance",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "Yes"
+    },
+    {
       "name": "Fed Treasury",
       "url": "https://fiscaldata.treasury.gov/api-documentation/",
       "description": "U.S. Department of the Treasury Data",
@@ -5475,6 +5556,15 @@
       "cors": "Unknown"
     },
     {
+      "name": "LiquiLens",
+      "url": "https://liquilens.in/developers/",
+      "description": "Public-record bank and lender failure-risk evidence",
+      "category": "Finance",
+      "auth": "No",
+      "https": "Yes",
+      "cors": "Yes"
+    },
+    {
       "name": "MercadoPago",
       "url": "https://www.mercadopago.com.br/developers/es/reference",
       "description": "Mercado Pago API reference - all the information you need to develop your integrations",
@@ -5527,6 +5617,15 @@
       "auth": "apiKey",
       "https": "Yes",
       "cors": "Yes"
+    },
+    {
+      "name": "PIT Financial State",
+      "url": "https://agent-economy-pit-evaluation.onrender.com/docs",
+      "description": "Point-in-time quarterly revenue for 20 U.S. issuers",
+      "category": "Finance",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "Unknown"
     },
     {
       "name": "Plaid",
@@ -5631,6 +5730,15 @@
       "name": "Tax Data",
       "url": "https://apilayer.com/marketplace/tax_data-api",
       "description": "Instant VAT number and tax validation across the globe",
+      "category": "Finance",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "Unknown"
+    },
+    {
+      "name": "TickerLayer",
+      "url": "https://tickerlayer.com",
+      "description": "Real-time and historical market data for stocks, forex, crypto and more",
       "category": "Finance",
       "auth": "apiKey",
       "https": "Yes",
@@ -6166,6 +6274,15 @@
       "auth": "apiKey",
       "https": "Yes",
       "cors": "Unknown"
+    },
+    {
+      "name": "DotaSense Timings",
+      "url": "https://dotasense.com/cheat-sheet#timing-api",
+      "description": "Reviewed Dota 2 objective timings in JSON and CSV",
+      "category": "Games & Comics",
+      "auth": "No",
+      "https": "Yes",
+      "cors": "Yes"
     },
     {
       "name": "Dungeons and Dragons",
@@ -10335,6 +10452,15 @@
       "cors": "Unknown"
     },
     {
+      "name": "PublicDataHub",
+      "url": "https://publicdatahub.org/api",
+      "description": "US public schools, hospitals and federal agency budgets as JSON/CSV, with provenance",
+      "category": "Open Data",
+      "auth": "No",
+      "https": "Yes",
+      "cors": "Yes"
+    },
+    {
       "name": "Recreation Information Database",
       "url": "https://ridb.recreation.gov/",
       "description": "Recreational areas, federal lands, historic sites, museums, and other attractions/resources(US)",
@@ -11350,6 +11476,15 @@
       "auth": "No",
       "https": "Yes",
       "cors": "No"
+    },
+    {
+      "name": "NASA InSight",
+      "url": "https://api.nasa.gov/",
+      "description": "Mars weather data from InSight lander",
+      "category": "Science & Math",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "Yes"
     },
     {
       "name": "NASA ADS",
@@ -12459,6 +12594,15 @@
       "cors": "Unknown"
     },
     {
+      "name": "SocialCrawl",
+      "url": "https://www.socialcrawl.dev/docs",
+      "description": "Social and commerce data from 50+ platforms in one JSON schema",
+      "category": "Social",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "Yes"
+    },
+    {
       "name": "SocialSwarm",
       "url": "https://social-swarm-main-aa77a19.zuplo.site",
       "description": "Turn articles into ready-to-post X thread drafts with different hooks",
@@ -12592,6 +12736,15 @@
       "auth": "apiKey",
       "https": "Yes",
       "cors": "No"
+    },
+    {
+      "name": "5DollarFootball",
+      "url": "https://5dollarfootballapi.com/",
+      "description": "Football fixtures, results, standings and historical odds with corner and card lines",
+      "category": "Sports & Fitness",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "Yes"
     },
     {
       "name": "API-FOOTBALL",
@@ -13078,6 +13231,15 @@
       "auth": "No",
       "https": "Yes",
       "cors": "Unknown"
+    },
+    {
+      "name": "flaky",
+      "url": "https://flakyapi.dev",
+      "description": "Fake REST API with chaos controls: force any status code, add latency, or a failure rate",
+      "category": "Test Data",
+      "auth": "No",
+      "https": "Yes",
+      "cors": "Yes"
     },
     {
       "name": "GeneradorDNI",
@@ -14232,6 +14394,15 @@
       "cors": "No"
     },
     {
+      "name": "Wander Atlas",
+      "url": "https://wanderatlasguides.com/api/",
+      "description": "Hourly quiet and busy crowd windows for 620+ tourist attractions in 20 countries",
+      "category": "Transportation",
+      "auth": "No",
+      "https": "Yes",
+      "cors": "Yes"
+    },
+    {
       "name": "1pt",
       "url": "https://github.com/1pt-co/api/blob/main/README.md",
       "description": "A simple URL shortener",
@@ -14640,6 +14811,15 @@
       "name": "JSON2Video",
       "url": "https://json2video.com",
       "description": "Create and edit videos programmatically: watermarks,resizing,slideshows,voice-over,text animations",
+      "category": "Video",
+      "auth": "apiKey",
+      "https": "Yes",
+      "cors": "No"
+    },
+    {
+      "name": "KinoPipe",
+      "url": "https://kinopipe.com/docs",
+      "description": "Typed hosted video editing operations for agents and automation",
       "category": "Video",
       "auth": "apiKey",
       "https": "Yes",
@@ -15099,6 +15279,15 @@
       "name": "Open-Meteo",
       "url": "https://open-meteo.com/",
       "description": "Global weather forecast API for non-commercial use",
+      "category": "Weather",
+      "auth": "No",
+      "https": "Yes",
+      "cors": "Yes"
+    },
+    {
+      "name": "Open-Meteo Ensemble",
+      "url": "https://open-meteo.com/en/docs/ensemble-api",
+      "description": "Weather ensemble forecasts from multiple models",
       "category": "Weather",
       "auth": "No",
       "https": "Yes",
